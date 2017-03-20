@@ -6,3 +6,4 @@ Project outline:
 - Use Json data
 - Draw graph 
 - Implement side menu, tab etc.
+- and anything else...
